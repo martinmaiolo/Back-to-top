@@ -1,0 +1,12 @@
+/*Estilos para el botón de volver arriba*/
+.topbutton {
+     height:64px;
+     width:64px;
+     position:fixed;
+     right:5px;
+     bottom:5px;
+     Z-index:1;
+     background-image:url("https://codigo.dev.cc/wp-content/uploads/2020/03/volver-arriba.png");
+     background-repeat:no-repeat;
+     display:none;
+}
